@@ -12,7 +12,6 @@ This project provides a backend API for POS applications, leveraging Django and 
 - **Product Catalog**: Add, update, and organize products and categories.
 - **Inventory Tracking**: Manage stock levels and receive notifications for low inventory.
 - **Customer Management**: Register customers, track their purchases, and view analytics.
-- **Reports & Analytics**: Generate sales, inventory, and customer reports.
 - **Authentication & Permissions**: Secure endpoints using JWT or token authentication.
 - **RESTful API**: All resources are exposed via RESTful endpoints for easy integration.
 
@@ -72,7 +71,6 @@ API endpoints are available under `/api/`. You can use tools like [Postman](http
 - **Products**: `/api/products/`
 - **Sales**: `/api/sales/`
 - **Customers**: `/api/customers/`
-- **Reports**: `/api/reports/`
 
 Refer to the codebase for serializers, views, and detailed endpoint information.
 
