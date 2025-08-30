@@ -76,13 +76,6 @@ API endpoints are available under `/api/`. You can use tools like [Postman](http
 
 Refer to the codebase for serializers, views, and detailed endpoint information.
 
-## Development
-
-To contribute or extend the API:
-
-- Follow Django best practices.
-- Write unit tests for new features.
-- Submit pull requests with clear descriptions.
 
 ## License
 
